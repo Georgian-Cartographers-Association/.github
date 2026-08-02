@@ -4,7 +4,7 @@
 
 **Georgian Cartographers Association**
 
-[![Website](https://img.shields.io/badge/🌐_Website-gca.qgis.ge-0d5c8a?style=flat-square)](https://gca.qgis.ge)
+[![Website](https://img.shields.io/badge/🌐_Website-cam2026.tsu.ge-0d5c8a?style=flat-square)](https://cam2026.tsu.ge/)
 [![ICA](https://img.shields.io/badge/ICA-Recognized-gold?style=flat-square)](https://icaci.org)
 [![Email](https://img.shields.io/badge/Email-geocartographersassoc@gmail.com-c0392b?style=flat-square&logo=gmail)](mailto:geocartographersassoc@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-GCA-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=61556291459201)
@@ -31,12 +31,15 @@
 >
 > ეძღვნება პროფ. **ალექსანდრე ასლანიკაშვილის** დაბადებიდან 110 წლის იუბილეს
 >
-> 🌐 [gca.qgis.ge](https://gca.qgis.ge)
+> 🌐 [cam2026.tsu.ge](https://cam2026.tsu.ge/)
 
 | მნიშვნელოვანი თარიღები | ვადა |
 |---|---|
-| 📄 აბსტრაქტების წარდგენა | **1 ივლისი 2026** |
-| 📝 სტატიების წარდგენა | **1 სექტემბერი 2026** |
+| 🟢 აბსტრაქტების წარდგენა | **დაიწყო** |
+| 📝 აბსტრაქტების წარდგენის ბოლო ვადა | **15 აგვისტო 2026** |
+| 📄 სტატიების წარდგენის ბოლო ვადა | **10 სექტემბერი 2026** |
+| 📬 განხილვის შედეგების შეტყობინება | **30 სექტემბერი 2026** |
+| 🗓️ კონფერენცია | **29–31 ოქტომბერი 2026** |
 
 ---
 
@@ -44,8 +47,8 @@
 
 | რეპო | აღწერა |
 |---|---|
-| [GCA](https://github.com/Georgian-Cartographers-Association/GCA) | კონფერენციის ვებ-გვერდი · [gca.qgis.ge](https://gca.qgis.ge) |
-| [gca-website](https://github.com/Georgian-Cartographers-Association/gca-website) | ასოციაციის მთავარი ვებ-გვერდი (Next.js) |
+| [GCA](https://github.com/Georgian-Cartographers-Association/GCA) | კონფერენციის ვებ-გვერდი · [cam2026.tsu.ge](https://cam2026.tsu.ge/) |
+| [gca-website](https://github.com/Georgian-Cartographers-Association/gca-website) | ასოციაციის მთავარი ვებ-გვერდი · [geocartoassoc.ge](https://geocartoassoc.ge/ka) |
 
 ---
 
